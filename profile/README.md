@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo.png" width="400">
+</p>
+
 # OpenMind Systems Lab
 
 OpenMind Systems Lab is an open-source research and engineering initiative focused on applied computing systems, artificial intelligence integration, and distributed architectures.
