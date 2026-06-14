@@ -1,54 +1,158 @@
 <p align="center">
-  <img src="./logo.png" width="400">
+  <img src="./logo.png" width="380">
 </p>
 
-# OpenMind Systems Lab
 
-OpenMind Systems Lab is an open-source research and engineering initiative focused on applied computing systems, artificial intelligence integration, and distributed architectures.
+<p align="center">
+An independent Open Source Technology Lab dedicated to research,
+experimental development and benchmarking.
+</p>
 
-## 🧪 Mission
+---
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+![Association](https://img.shields.io/badge/Association-Loi%201901-blue)
 
-The objective of OpenMind Systems Lab is to explore, prototype, and benchmark modern computing systems through reproducible research and open-source experimentation.
+## 🎯 Mission
 
-We focus on:
+OpenMind Systems Lab is a French non-profit initiative dedicated to exploring modern software engineering through practical experimentation.
 
-- Proof of Concept (PoC) development in real-world systems
-- Benchmarking of containerized architectures (e.g., Docker-based environments)
-- Distributed messaging systems and event-driven architectures (e.g., NATS-like systems)
-- Local AI model integration using modern orchestration layers (e.g., Model Context Protocol - MCP)
-- Performance analysis of hardware and software stacks
-- Open publication of results, tools, and methodologies
-- Mobile PoC about trends tech 
+Our objective is to produce reusable Proofs of Concept (PoCs), technical benchmarks and educational material that anyone can study, reuse and improve.
 
-## 🔬 Philosophy
+Research areas include:
 
-- Open research
-- Reproducibility
-- Transparent benchmarking
-- Practical engineering over theory-only approaches
-- Open-source publication of all meaningful results
-
-## 🧱 Structure
-
-This organization is organized into the following research areas:
-
-- `poc-lab` → experimental prototypes
-- `benchmarks` → performance testing & comparisons
-- `mcp-research` → AI orchestration experiments
-- `docs` → documentation and methodology
-
-## 🌍 Open Source Commitment
-
-All meaningful outputs produced by OpenMind Systems Lab are intended to be published under permissive open-source licenses (e.g., MIT License), to ensure transparency and knowledge sharing.
-
-## 🧑‍🔬 Governance
-
-This project is currently maintained by individual contributors and structured as a research initiative. It may later be formalized under a French non-profit association (Loi 1901).
-
-## ⚖️ Legal Notice
-
-This organization does not represent a commercial entity. It is a non-profit oriented research and experimentation initiative.
+- ☸️ Cloud Native & Kubernetes
+- 📨 Distributed Messaging Systems
+- 🔒 Infrastructure Security
+- 📊 Performance Benchmarking
+- 🤖 Artificial Intelligence & MCP
+- ⚙️ Platform Engineering
 
 ---
 
-© OpenMind Systems Lab
+# 📦 Projects
+
+## ☸️ Kubernetes & Cloud Native
+
+| Repository | Description |
+|------------|-------------|
+| [traefik-weight](https://github.com/openmind-systems-lab/traefik-weight) | Weighted Load Balancing with Traefik |
+| [argocd-go-gitops](https://github.com/openmind-systems-lab/argocd-go-gitops) | GitOps deployment using Argo CD |
+| [keda-go](https://github.com/openmind-systems-lab/keda-go) | Event-Driven Autoscaling with KEDA |
+
+---
+
+## 📨 Messaging
+
+| Repository | Status |
+|------------|--------|
+| NATS | 🚧 Coming Soon |
+| MQTT | 🚧 Coming Soon |
+| RabbitMQ | 🚧 Coming Soon |
+| Kafka | 🚧 Coming Soon |
+| Pulsar | 🚧 Coming Soon |
+
+---
+
+## 🔒 Security
+
+| Repository | Status |
+|------------|--------|
+| Vault Local Lab | 🚧 Coming Soon |
+| External Secrets | 🚧 Coming Soon |
+| OPA | 🚧 Coming Soon |
+| Kyverno | 🚧 Coming Soon |
+
+---
+
+## 📊 Benchmark
+
+| Repository | Status |
+|------------|--------|
+| Kafka vs NATS | 🚧 Coming Soon |
+| RabbitMQ vs NATS | 🚧 Coming Soon |
+| Traefik Benchmark | 🚧 Coming Soon |
+| KEDA Benchmark | 🚧 Coming Soon |
+
+---
+
+## 🤖 Artificial Intelligence
+
+| Repository | Status |
+|------------|--------|
+| Ollama Local Lab | 🚧 Coming Soon |
+| MCP Research | 🚧 Coming Soon |
+
+---
+
+# 🔬 Research Principles
+
+Every project published by OpenMind Systems Lab follows the same principles:
+
+- Open research
+- Reproducibility
+- Practical experimentation
+- Transparent benchmarking
+- Knowledge sharing
+- Open Source by default
+
+---
+
+# 🚀 Roadmap
+
+Current projects
+
+- ✅ traefik-weight
+- ✅ argocd-go-gitops
+- ✅ keda-go
+
+Coming soon
+
+- 🔄 nats-go
+- 🔄 vault-local-lab
+- 🔄 mqtt-go
+- 🔄 rabbitmq-go
+- 🔄 kafka-go
+- 🔄 pulsar-go
+
+Future research
+
+- OpenTelemetry
+- Prometheus
+- Gateway API
+- Cilium
+- Linkerd
+- External Secrets
+- OPA
+- Kyverno
+- MCP
+- Local AI
+
+---
+
+# 📜 Open Source
+
+Unless explicitly stated otherwise, projects are released under the MIT License.
+
+The objective is to maximize transparency, collaboration and knowledge sharing.
+
+---
+
+# ⚖️ About
+
+OpenMind Systems Lab is a French non-profit association (Association Loi 1901).
+
+The organization is dedicated to:
+
+- Research
+- Experimental Development
+- Technical Benchmarking
+- Open Source Publication
+
+It operates independently from any commercial software vendor.
+
+---
+
+<p align="center">
+OpenMind Systems Lab © 2026
+</p>
