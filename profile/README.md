@@ -2,22 +2,22 @@
   <img src="./logo.png" width="380">
 </p>
 
-
 <p align="center">
 An independent Open Source Technology Lab dedicated to research,
 experimental development and benchmarking.
 </p>
 
 ---
+
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 ![Association](https://img.shields.io/badge/Association-Loi%201901-blue)
 
 ## 🎯 Mission
 
-OpenMind Systems Lab is a French non-profit initiative dedicated to exploring modern software engineering through practical experimentation.
+OpenMind Systems Lab is a French non-profit association (Association Loi 1901) dedicated to exploring modern software engineering through practical experimentation.
 
-Our objective is to produce reusable Proofs of Concept (PoCs), technical benchmarks and educational material that anyone can study, reuse and improve.
+Our objective is to produce reusable Proofs of Concept (PoCs), technical benchmarks and educational material that anyone can study, reproduce and improve.
 
 Research areas include:
 
@@ -25,7 +25,7 @@ Research areas include:
 - 📨 Distributed Messaging Systems
 - 🔒 Infrastructure Security
 - 📊 Performance Benchmarking
-- 🤖 Artificial Intelligence & MCP
+- 🤖 Artificial Intelligence & Model Context Protocol (MCP)
 - ⚙️ Platform Engineering
 
 ---
@@ -44,44 +44,40 @@ Research areas include:
 
 ## 📨 Messaging
 
-| Repository | Status |
-|------------|--------|
-| NATS | 🚧 Coming Soon |
-| MQTT | 🚧 Coming Soon |
-| RabbitMQ | 🚧 Coming Soon |
-| Kafka | 🚧 Coming Soon |
-| Pulsar | 🚧 Coming Soon |
+| Repository | Description |
+|------------|-------------|
+| [nats-jetstream-pipeline](https://github.com/openmind-systems-lab/nats-jetstream-pipeline) | Event-driven pipeline using NATS JetStream |
 
 ---
 
 ## 🔒 Security
 
-| Repository | Status |
-|------------|--------|
-| Vault Local Lab | 🚧 Coming Soon |
-| External Secrets | 🚧 Coming Soon |
-| OPA | 🚧 Coming Soon |
-| Kyverno | 🚧 Coming Soon |
+| Planned Research | Description |
+|------------------|-------------|
+| Vault Local Lab | Local secrets management with HashiCorp Vault |
+| External Secrets | Kubernetes external secret management |
+| Open Policy Agent (OPA) | Policy-based authorization |
+| Kyverno | Kubernetes policy management |
 
 ---
 
 ## 📊 Benchmark
 
-| Repository | Status |
-|------------|--------|
-| Kafka vs NATS | 🚧 Coming Soon |
-| RabbitMQ vs NATS | 🚧 Coming Soon |
-| Traefik Benchmark | 🚧 Coming Soon |
-| KEDA Benchmark | 🚧 Coming Soon |
+| Planned Research | Description |
+|------------------|-------------|
+| Kafka vs NATS | Messaging performance comparison |
+| RabbitMQ vs NATS | Messaging performance comparison |
+| Traefik Benchmark | Ingress performance evaluation |
+| KEDA Benchmark | Autoscaling performance analysis |
 
 ---
 
 ## 🤖 Artificial Intelligence
 
-| Repository | Status |
-|------------|--------|
-| Ollama Local Lab | 🚧 Coming Soon |
-| MCP Research | 🚧 Coming Soon |
+| Planned Research | Description |
+|------------------|-------------|
+| Ollama Local Lab | Local LLM experimentation |
+| MCP Research | Model Context Protocol experiments |
 
 ---
 
@@ -100,30 +96,31 @@ Every project published by OpenMind Systems Lab follows the same principles:
 
 # 🚀 Roadmap
 
-Current projects
+## Published
 
 - ✅ traefik-weight
 - ✅ argocd-go-gitops
 - ✅ keda-go
+- ✅ nats-jetstream-pipeline
 
-Coming soon
+## Next
 
-- 🔄 nats-go
 - 🔄 vault-local-lab
 - 🔄 mqtt-go
 - 🔄 rabbitmq-go
 - 🔄 kafka-go
 - 🔄 pulsar-go
 
-Future research
+## Future Research
 
 - OpenTelemetry
 - Prometheus
+- Grafana Loki
 - Gateway API
 - Cilium
 - Linkerd
 - External Secrets
-- OPA
+- Open Policy Agent (OPA)
 - Kyverno
 - MCP
 - Local AI
@@ -132,15 +129,15 @@ Future research
 
 # 📜 Open Source
 
-Unless explicitly stated otherwise, projects are released under the MIT License.
+Unless explicitly stated otherwise, all projects are released under the MIT License.
 
-The objective is to maximize transparency, collaboration and knowledge sharing.
+Our objective is to maximize transparency, collaboration and knowledge sharing through permissive Open Source licensing.
 
 ---
 
 # ⚖️ About
 
-OpenMind Systems Lab is a French non-profit association (Association Loi 1901).
+OpenMind Systems Lab is an independent French non-profit association (Association Loi 1901).
 
 The organization is dedicated to:
 
@@ -149,7 +146,20 @@ The organization is dedicated to:
 - Technical Benchmarking
 - Open Source Publication
 
-It operates independently from any commercial software vendor.
+The association operates independently from any commercial software vendor.
+
+---
+
+# 🤝 Contributing
+
+Contributions, ideas and feedback are always welcome.
+
+Feel free to:
+
+- Open an Issue
+- Submit a Pull Request
+- Suggest a new Proof of Concept
+- Propose a benchmark or research topic
 
 ---
 
