@@ -20,7 +20,7 @@ experimental development and benchmarking.
 - 📜 100% Open Source
 - ⚖️ French Non-Profit Association (Loi 1901)
 
-## 🎯 Mission
+# 🎯 Mission
 
 OpenMind Systems Lab is a French non-profit association (Association Loi 1901) dedicated to exploring modern software engineering through practical experimentation.
 
