@@ -13,6 +13,13 @@ experimental development and benchmarking.
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 ![Association](https://img.shields.io/badge/Association-Loi%201901-blue)
 
+**Current status**
+
+- 📦 4 public repositories
+- 🚀 4 published Proofs of Concept
+- 📜 100% Open Source
+- ⚖️ French Non-Profit Association (Loi 1901)
+
 ## 🎯 Mission
 
 OpenMind Systems Lab is a French non-profit association (Association Loi 1901) dedicated to exploring modern software engineering through practical experimentation.
