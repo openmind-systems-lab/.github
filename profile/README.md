@@ -110,7 +110,6 @@ Every project published by OpenMind Systems Lab follows the same principles:
 ---
 
 # 🚀 Roadmap
-# 🚀 Roadmap
 
 ## Published
 
