@@ -15,10 +15,18 @@ experimental development and benchmarking.
 
 **Current status**
 
-- 📦 4 public repositories
-- 🚀 4 published Proofs of Concept
+- 📦 5 public repositories
+- 🚀 5 published Proofs of Concept
 - 📜 100% Open Source
 - ⚖️ French Non-Profit Association (Loi 1901)
+
+**Research focus**
+
+- ☸️ Kubernetes & Cloud Native
+- 📨 Distributed Messaging
+- 🔒 Infrastructure Security
+- 🤖 Local AI & MCP
+- 📊 Independent Benchmarks
 
 # 🎯 Mission
 
@@ -59,18 +67,18 @@ Research areas include:
 
 ## 🔒 Security
 
-| Planned Research | Description |
-|------------------|-------------|
-| Vault Local Lab | Local secrets management with HashiCorp Vault |
-| External Secrets | Kubernetes external secret management |
-| Open Policy Agent (OPA) | Policy-based authorization |
-| Kyverno | Kubernetes policy management |
+| Repository | Description |
+|------------|-------------|
+| [hashicorp-vault-python](https://github.com/openmind-systems-lab/hashicorp-vault-python) | Local secrets management with HashiCorp Vault |
+| External Secrets | Kubernetes secrets synchronization |
+| Open Policy Agent (OPA) | Policy-as-code for authorization and governance |
+| Kyverno | Kubernetes native policy management |
 
 ---
 
 ## 📊 Benchmark
 
-| Planned Research | Description |
+| Research Project | Description |
 |------------------|-------------|
 | Kafka vs NATS | Messaging performance comparison |
 | RabbitMQ vs NATS | Messaging performance comparison |
@@ -79,9 +87,9 @@ Research areas include:
 
 ---
 
-## 🤖 Artificial Intelligence
+## 🤖 Artificial Intelligence & MCP
 
-| Planned Research | Description |
+| Research Project | Description |
 |------------------|-------------|
 | Ollama Local Lab | Local LLM experimentation |
 | MCP Research | Model Context Protocol experiments |
@@ -102,6 +110,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 ---
 
 # 🚀 Roadmap
+# 🚀 Roadmap
 
 ## Published
 
@@ -109,10 +118,10 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ argocd-go-gitops
 - ✅ keda-go
 - ✅ nats-jetstream-pipeline
+- ✅ hashicorp-vault-python
 
 ## Next
 
-- 🔄 vault-local-lab
 - 🔄 mqtt-go
 - 🔄 rabbitmq-go
 - 🔄 kafka-go
