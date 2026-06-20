@@ -13,20 +13,12 @@ experimental development and benchmarking.
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 ![Association](https://img.shields.io/badge/Association-Loi%201901-blue)
 
-**Current status**
+## Current Status
 
-- 📦 7 public repositories
-- 🚀 7 published Proofs of Concept
-- 📜 100% Open Source
-- ⚖️ French Non-Profit Association (Loi 1901)
-
-**Research focus**
-
-- ☸️ Kubernetes & Cloud Native
-- 📨 Distributed Messaging
-- 🔒 Infrastructure Security
-- 🤖 Local AI & MCP
-- 📊 Independent Benchmarks
+- 📦 **8 public repositories**
+- 🚀 **8 published Proofs of Concept**
+- 📜 **100% Open Source**
+- ⚖️ **French Non-Profit Association (Loi 1901)**
 
 # 🎯 Mission
 
@@ -54,6 +46,7 @@ Research areas include:
 | [traefik-weight](https://github.com/openmind-systems-lab/traefik-weight) | Weighted Load Balancing with Traefik |
 | [argocd-go-gitops](https://github.com/openmind-systems-lab/argocd-go-gitops) | GitOps deployment using Argo CD |
 | [keda-go](https://github.com/openmind-systems-lab/keda-go) | Event-Driven Autoscaling with KEDA |
+| [envoy-gateway-playground](https://github.com/openmind-systems-lab/envoy-gateway-playground) | Kubernetes Gateway API with Envoy Gateway |
 
 ---
 
@@ -61,7 +54,7 @@ Research areas include:
 
 | Repository | Description |
 |------------|-------------|
-| [nats-jetstream-pipeline](https://github.com/openmind-systems-lab/nats-jetstream-pipeline) | Event-driven pipeline using NATS JetStream |
+| [nats-jetstream-pipeline](https://github.com/openmind-systems-lab/nats-jetstream-pipeline) | Distributed messaging with NATS JetStream |
 
 ---
 
@@ -69,16 +62,15 @@ Research areas include:
 
 | Repository | Description |
 |------------|-------------|
-| [hashicorp-vault-python](https://github.com/openmind-systems-lab/hashicorp-vault-python) | Local secrets management with HashiCorp Vault |
-| [external-secrets-operator](https://github.com/openmind-systems-lab/external-secrets-operator) | Kubernetes secrets synchronization with External Secrets Operator |
+| [hashicorp-vault-python](https://github.com/openmind-systems-lab/hashicorp-vault-python) | Secret injection using HashiCorp Vault Agent Injector |
+| [external-secrets-operator](https://github.com/openmind-systems-lab/external-secrets-operator) | Kubernetes External Secrets Operator |
 | [kyverno-playground](https://github.com/openmind-systems-lab/kyverno-playground) | Kubernetes policy management with Kyverno |
-| Open Policy Agent (OPA) | Policy-as-code for authorization and governance |
 
 ---
 
-## 📊 Benchmark
+## 📊 Upcoming Research
 
-| Research Project | Description |
+| Planned Research | Description |
 |------------------|-------------|
 | Kafka vs NATS | Messaging performance comparison |
 | RabbitMQ vs NATS | Messaging performance comparison |
@@ -87,9 +79,9 @@ Research areas include:
 
 ---
 
-## 🤖 Artificial Intelligence & MCP
+## 🤖 Artificial Intelligence
 
-| Research Project | Description |
+| Planned Research | Description |
 |------------------|-------------|
 | Ollama Local Lab | Local LLM experimentation |
 | MCP Research | Model Context Protocol experiments |
@@ -120,6 +112,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ hashicorp-vault-python
 - ✅ external-secrets-operator
 - ✅ kyverno-playground
+- ✅ envoy-gateway-playground
 
 ## Next
 
@@ -133,7 +126,6 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - OpenTelemetry
 - Prometheus
 - Grafana Loki
-- Gateway API
 - Cilium
 - Linkerd
 - Open Policy Agent (OPA)
