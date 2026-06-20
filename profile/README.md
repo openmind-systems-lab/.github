@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 **Current status**
 
-- 📦 6 public repositories
-- 🚀 6 published Proofs of Concept
+- 📦 7 public repositories
+- 🚀 7 published Proofs of Concept
 - 📜 100% Open Source
 - ⚖️ French Non-Profit Association (Loi 1901)
 
@@ -71,8 +71,8 @@ Research areas include:
 |------------|-------------|
 | [hashicorp-vault-python](https://github.com/openmind-systems-lab/hashicorp-vault-python) | Local secrets management with HashiCorp Vault |
 | [external-secrets-operator](https://github.com/openmind-systems-lab/external-secrets-operator) | Kubernetes secrets synchronization with External Secrets Operator |
+| [kyverno-playground](https://github.com/openmind-systems-lab/kyverno-playground) | Kubernetes policy management with Kyverno |
 | Open Policy Agent (OPA) | Policy-as-code for authorization and governance |
-| Kyverno | Kubernetes native policy management |
 
 ---
 
@@ -119,6 +119,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ nats-jetstream-pipeline
 - ✅ hashicorp-vault-python
 - ✅ external-secrets-operator
+- ✅ kyverno-playground
 
 ## Next
 
@@ -136,7 +137,6 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - Cilium
 - Linkerd
 - Open Policy Agent (OPA)
-- Kyverno
 - MCP
 - Local AI
 
