@@ -13,10 +13,11 @@ experimental development and benchmarking.
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 ![Association](https://img.shields.io/badge/Association-Loi%201901-blue)
 
+
 ## Current Status
 
-- 📦 **8 public repositories**
-- 🚀 **8 published Proofs of Concept**
+- 📦 **9 public repositories**
+- 🚀 **9 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -29,6 +30,7 @@ Our objective is to produce reusable Proofs of Concept (PoCs), technical benchma
 Research areas include:
 
 - ☸️ Cloud Native & Kubernetes
+- 🌐 Service Mesh & API Gateways
 - 📨 Distributed Messaging Systems
 - 🔒 Infrastructure Security
 - 📊 Performance Benchmarking
@@ -44,9 +46,10 @@ Research areas include:
 | Repository | Description |
 |------------|-------------|
 | [traefik-weight](https://github.com/openmind-systems-lab/traefik-weight) | Weighted Load Balancing with Traefik |
+| [envoy-gateway-playground](https://github.com/openmind-systems-lab/envoy-gateway-playground) | Kubernetes Gateway API with Envoy Gateway |
+| [istio-playground](https://github.com/openmind-systems-lab/istio-playground) | Service Mesh fundamentals with Istio |
 | [argocd-go-gitops](https://github.com/openmind-systems-lab/argocd-go-gitops) | GitOps deployment using Argo CD |
 | [keda-go](https://github.com/openmind-systems-lab/keda-go) | Event-Driven Autoscaling with KEDA |
-| [envoy-gateway-playground](https://github.com/openmind-systems-lab/envoy-gateway-playground) | Kubernetes Gateway API with Envoy Gateway |
 
 ---
 
@@ -106,13 +109,14 @@ Every project published by OpenMind Systems Lab follows the same principles:
 ## Published
 
 - ✅ traefik-weight
+- ✅ envoy-gateway-playground
+- ✅ istio-playground
 - ✅ argocd-go-gitops
 - ✅ keda-go
 - ✅ nats-jetstream-pipeline
 - ✅ hashicorp-vault-python
 - ✅ external-secrets-operator
 - ✅ kyverno-playground
-- ✅ envoy-gateway-playground
 
 ## Next
 
@@ -120,15 +124,17 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - 🔄 rabbitmq-go
 - 🔄 kafka-go
 - 🔄 pulsar-go
+- 🔄 ollama-playground
 
 ## Future Research
 
 - OpenTelemetry
-- Prometheus
-- Grafana Loki
 - Cilium
 - Linkerd
 - Open Policy Agent (OPA)
+- SPIFFE / SPIRE
+- Prometheus
+- Grafana Loki
 - MCP
 - Local AI
 
@@ -148,9 +154,10 @@ OpenMind Systems Lab is an independent French non-profit association (Associatio
 
 The organization is dedicated to:
 
-- Research
+- Applied Research
 - Experimental Development
 - Technical Benchmarking
+- Knowledge Sharing
 - Open Source Publication
 
 The association operates independently from any commercial software vendor.
@@ -171,5 +178,5 @@ Feel free to:
 ---
 
 <p align="center">
-OpenMind Systems Lab © 2026
+Made with ❤️ by OpenMind Systems Lab
 </p>
