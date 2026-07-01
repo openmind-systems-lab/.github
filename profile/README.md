@@ -16,8 +16,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **9 public repositories**
-- 🚀 **9 published Proofs of Concept**
+- 📦 **10 public repositories**
+- 🚀 **10 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -68,6 +68,7 @@ Research areas include:
 | [hashicorp-vault-python](https://github.com/openmind-systems-lab/hashicorp-vault-python) | Secret injection using HashiCorp Vault Agent Injector |
 | [external-secrets-operator](https://github.com/openmind-systems-lab/external-secrets-operator) | Kubernetes External Secrets Operator |
 | [kyverno-playground](https://github.com/openmind-systems-lab/kyverno-playground) | Kubernetes policy management with Kyverno |
+| [spire-k8s-playground](https://github.com/openmind-systems-lab/spire-k8s-playground) | SPIRE on Kubernetes using the modern CRD-based model |
 
 ---
 
@@ -117,6 +118,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ hashicorp-vault-python
 - ✅ external-secrets-operator
 - ✅ kyverno-playground
+- ✅ spire-k8s-playground
 
 ## Next
 
