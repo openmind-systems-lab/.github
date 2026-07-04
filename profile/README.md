@@ -134,7 +134,6 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - Cilium
 - Linkerd
 - Open Policy Agent (OPA)
-- SPIFFE / SPIRE
 - Prometheus
 - Grafana Loki
 - MCP
