@@ -13,11 +13,10 @@ experimental development and benchmarking.
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 ![Association](https://img.shields.io/badge/Association-Loi%201901-blue)
 
-
 ## Current Status
 
-- 📦 **10 public repositories**
-- 🚀 **10 published Proofs of Concept**
+- 📦 **11 public repositories**
+- 🚀 **11 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -58,6 +57,7 @@ Research areas include:
 | Repository | Description |
 |------------|-------------|
 | [nats-jetstream-pipeline](https://github.com/openmind-systems-lab/nats-jetstream-pipeline) | Distributed messaging with NATS JetStream |
+| [mqtt-k8s-playground](https://github.com/openmind-systems-lab/mqtt-k8s-playground) | MQTT messaging on Kubernetes using Eclipse Mosquitto |
 
 ---
 
@@ -78,6 +78,7 @@ Research areas include:
 |------------------|-------------|
 | Kafka vs NATS | Messaging performance comparison |
 | RabbitMQ vs NATS | Messaging performance comparison |
+| MQTT vs NATS | Messaging performance comparison |
 | Traefik Benchmark | Ingress performance evaluation |
 | KEDA Benchmark | Autoscaling performance analysis |
 
@@ -115,6 +116,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ argocd-go-gitops
 - ✅ keda-go
 - ✅ nats-jetstream-pipeline
+- ✅ mqtt-k8s-playground
 - ✅ hashicorp-vault-python
 - ✅ external-secrets-operator
 - ✅ kyverno-playground
@@ -122,10 +124,9 @@ Every project published by OpenMind Systems Lab follows the same principles:
 
 ## Next
 
-- 🔄 mqtt-go
-- 🔄 rabbitmq-go
-- 🔄 kafka-go
-- 🔄 pulsar-go
+- 🔄 rabbitmq-k8s-playground
+- 🔄 kafka-k8s-playground
+- 🔄 pulsar-k8s-playground
 - 🔄 ollama-playground
 
 ## Future Research
