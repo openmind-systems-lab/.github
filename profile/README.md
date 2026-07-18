@@ -42,7 +42,7 @@ Research areas include:
 
 # 📦 Projects
 
-## ☸️ Kubernetes & Cloud Native
+## ☸️ Cloud Native
 
 | Repository | Description |
 |------------|-------------|
@@ -57,7 +57,7 @@ Research areas include:
 
 
 
-## 📦 Kubernetes Native Storage
+## 📦 Storage
 
 | Repository | Description |
 |------------|-------------|
