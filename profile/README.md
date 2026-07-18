@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **12 public repositories**
-- 🚀 **12 published Proofs of Concept**
+- 📦 **13 public repositories**
+- 🚀 **13 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -29,6 +29,7 @@ Our objective is to produce reusable Proofs of Concept (PoCs), technical benchma
 Research areas include:
 
 - ☸️ Cloud Native & Kubernetes
+- 📦 Kubernetes Native Storage & Data Platforms
 - 🌐 Service Mesh & API Gateways
 - 📨 Distributed Messaging Systems
 - 🔒 Infrastructure Security
@@ -51,6 +52,17 @@ Research areas include:
 | [argocd-go-gitops](https://github.com/openmind-systems-lab/argocd-go-gitops) | GitOps deployment using Argo CD |
 | [keda-go](https://github.com/openmind-systems-lab/keda-go) | Event-Driven Autoscaling with KEDA |
 | [image-volume-playground](https://github.com/openmind-systems-lab/image-volume-playground) | Kubernetes Image Volume experimentation using OCI images |
+
+---
+
+
+
+## 📦 Kubernetes Native Storage
+
+| Repository | Description |
+|------------|-------------|
+| [kubernetes-native-storage-playground](https://github.com/openmind-systems-lab/kubernetes-native-storage-playground) | Kubernetes Native Storage fundamentals, PersistentVolumes, PersistentVolumeClaims and CSI concepts |
+
 
 ---
 
@@ -124,6 +136,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ kyverno-playground
 - ✅ spire-k8s-playground
 - ✅ image-volume-playground
+- ✅ kubernetes-native-storage-playground
 
 ## Next
 
@@ -131,6 +144,11 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - 🔄 kafka-k8s-playground
 - 🔄 pulsar-k8s-playground
 - 🔄 ollama-playground
+- 🔄 kubernetes-statefulset-playground
+- 🔄 kubernetes-volume-snapshot-playground
+- 🔄 longhorn-playground
+- 🔄 rook-ceph-playground
+- 🔄 velero-playground
 
 ## Future Research
 
