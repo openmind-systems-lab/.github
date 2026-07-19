@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **13 public repositories**
-- 🚀 **13 published Proofs of Concept**
+- 📦 **14 public repositories**
+- 🚀 **14 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -62,6 +62,7 @@ Research areas include:
 | Repository | Description |
 |------------|-------------|
 | [kubernetes-native-storage-playground](https://github.com/openmind-systems-lab/kubernetes-native-storage-playground) | Kubernetes Native Storage fundamentals, PersistentVolumes, PersistentVolumeClaims and CSI concepts |
+| [kubernetes-volume-snapshot-playground](https://github.com/openmind-systems-lab/kubernetes-volume-snapshot-playground) | Kubernetes CSI Volume Snapshots, point-in-time snapshots and volume restoration |
 
 
 ---
@@ -137,6 +138,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ spire-k8s-playground
 - ✅ image-volume-playground
 - ✅ kubernetes-native-storage-playground
+- ✅ kubernetes-volume-snapshot-playground
 
 ## Next
 
@@ -145,7 +147,6 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - 🔄 pulsar-k8s-playground
 - 🔄 ollama-playground
 - 🔄 kubernetes-statefulset-playground
-- 🔄 kubernetes-volume-snapshot-playground
 - 🔄 longhorn-playground
 - 🔄 rook-ceph-playground
 - 🔄 velero-playground
