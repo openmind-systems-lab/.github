@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **15 public repositories**
-- 🚀 **15 published Proofs of Concept**
+- 📦 **16 public repositories**
+- 🚀 **16 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -64,6 +64,7 @@ Research areas include:
 | [kubernetes-native-storage-playground](https://github.com/openmind-systems-lab/kubernetes-native-storage-playground) | Kubernetes Native Storage fundamentals, PersistentVolumes, PersistentVolumeClaims and CSI concepts |
 | [kubernetes-volume-snapshot-playground](https://github.com/openmind-systems-lab/kubernetes-volume-snapshot-playground) | Kubernetes CSI Volume Snapshots, point-in-time snapshots and volume restoration |
 | [kubernetes-statefulset-playground](https://github.com/openmind-systems-lab/kubernetes-statefulset-playground) | Kubernetes StatefulSets, stable identities, Headless Services and persistent storage |
+| [kubernetes-nfs-failover-playground](https://github.com/openmind-systems-lab/kubernetes-nfs-failover-playground) | Kubernetes application failover with an NFS CSI-backed ReadWriteMany volume and persistent state |
 
 ---
 
@@ -140,6 +141,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ kubernetes-native-storage-playground
 - ✅ kubernetes-volume-snapshot-playground
 - ✅ kubernetes-statefulset-playground
+- ✅ kubernetes-nfs-failover-playground
 
 ## Next
 
