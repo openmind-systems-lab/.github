@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **16 public repositories**
-- 🚀 **16 published Proofs of Concept**
+- 📦 **17 public repositories**
+- 🚀 **17 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -65,6 +65,7 @@ Research areas include:
 | [kubernetes-volume-snapshot-playground](https://github.com/openmind-systems-lab/kubernetes-volume-snapshot-playground) | Kubernetes CSI Volume Snapshots, point-in-time snapshots and volume restoration |
 | [kubernetes-statefulset-playground](https://github.com/openmind-systems-lab/kubernetes-statefulset-playground) | Kubernetes StatefulSets, stable identities, Headless Services and persistent storage |
 | [kubernetes-nfs-failover-playground](https://github.com/openmind-systems-lab/kubernetes-nfs-failover-playground) | Kubernetes application failover with an NFS CSI-backed ReadWriteMany volume and persistent state |
+| [kubernetes-native-storage-patterns-playground](https://github.com/openmind-systems-lab/kubernetes-native-storage-patterns-playground) | Kubernetes ephemeral, projected, dynamically provisioned and per-replica storage patterns |
 
 ---
 
@@ -142,6 +143,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ kubernetes-volume-snapshot-playground
 - ✅ kubernetes-statefulset-playground
 - ✅ kubernetes-nfs-failover-playground
+- ✅ kubernetes-native-storage-patterns-playground
 
 ## Next
 
@@ -164,7 +166,6 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - MCP
 - Local AI
 - OCI Artifact Distribution
-- Kubernetes Native Storage Patterns
 - Immutable Application Assets
 
 ---
