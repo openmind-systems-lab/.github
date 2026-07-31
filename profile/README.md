@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **17 public repositories**
-- 🚀 **17 published Proofs of Concept**
+- 📦 **18 public repositories**
+- 🚀 **18 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -29,6 +29,7 @@ Our objective is to produce reusable Proofs of Concept (PoCs), technical benchma
 Research areas include:
 
 - ☸️ Cloud Native & Kubernetes
+- 🔭 Observability & OpenTelemetry
 - 📦 Kubernetes Native Storage & Data Platforms
 - 🌐 Service Mesh & API Gateways
 - 📨 Distributed Messaging Systems
@@ -55,7 +56,13 @@ Research areas include:
 
 ---
 
+## 🔭 Observability
 
+| Repository | Description |
+|------------|-------------|
+| [observability-playground](https://github.com/openmind-systems-lab/observability-playground) | Kubernetes-native metrics, logs and distributed tracing with Grafana Alloy, OpenTelemetry, Prometheus, Loki, Tempo and Grafana |
+
+---
 
 ## 📦 Storage
 
@@ -144,6 +151,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ kubernetes-statefulset-playground
 - ✅ kubernetes-nfs-failover-playground
 - ✅ kubernetes-native-storage-patterns-playground
+- ✅ observability-playground
 
 ## Next
 
@@ -157,12 +165,9 @@ Every project published by OpenMind Systems Lab follows the same principles:
 
 ## Future Research
 
-- OpenTelemetry
 - Cilium
 - Linkerd
 - Open Policy Agent (OPA)
-- Prometheus
-- Grafana Loki
 - MCP
 - Local AI
 - OCI Artifact Distribution
