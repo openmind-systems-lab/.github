@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **18 public repositories**
-- 🚀 **18 published Proofs of Concept**
+- 📦 **19 public repositories**
+- 🚀 **19 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -51,6 +51,7 @@ Research areas include:
 | [envoy-gateway-playground](https://github.com/openmind-systems-lab/envoy-gateway-playground) | Kubernetes Gateway API with Envoy Gateway |
 | [istio-playground](https://github.com/openmind-systems-lab/istio-playground) | Service Mesh fundamentals with Istio |
 | [argocd-go-gitops](https://github.com/openmind-systems-lab/argocd-go-gitops) | GitOps deployment using Argo CD |
+| [oci-artifact-distribution-playground](https://github.com/openmind-systems-lab/oci-artifact-distribution-playground) | OCI artifact packaging and GitOps reconciliation with FluxCD and GitHub Container Registry |
 | [keda-go](https://github.com/openmind-systems-lab/keda-go) | Event-Driven Autoscaling with KEDA |
 | [image-volume-playground](https://github.com/openmind-systems-lab/image-volume-playground) | Kubernetes Image Volume experimentation using OCI images |
 
@@ -152,6 +153,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ kubernetes-nfs-failover-playground
 - ✅ kubernetes-native-storage-patterns-playground
 - ✅ observability-playground
+- ✅ oci-artifact-distribution-playground
 
 ## Next
 
@@ -170,7 +172,6 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - Open Policy Agent (OPA)
 - MCP
 - Local AI
-- OCI Artifact Distribution
 - Immutable Application Assets
 
 ---
