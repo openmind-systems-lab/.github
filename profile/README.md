@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **19 public repositories**
-- 🚀 **19 published Proofs of Concept**
+- 📦 **20 public repositories**
+- 🚀 **20 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -97,6 +97,16 @@ Research areas include:
 
 ---
 
+## 🤖 Artificial Intelligence
+
+| Repository | Description |
+|------------|-------------|
+| [kubernetes-mcp-orders-playground](https://github.com/openmind-systems-lab/kubernetes-mcp-orders-playground) | Remote Model Context Protocol server in Go with Cline, PostgreSQL persistence and Kubernetes deployment for order-management tools |
+
+---
+
+
+
 ## 📊 Upcoming Research
 
 | Planned Research | Description |
@@ -107,14 +117,6 @@ Research areas include:
 | Traefik Benchmark | Ingress performance evaluation |
 | KEDA Benchmark | Autoscaling performance analysis |
 
----
-
-## 🤖 Artificial Intelligence
-
-| Planned Research | Description |
-|------------------|-------------|
-| Ollama Local Lab | Local LLM experimentation |
-| MCP Research | Model Context Protocol experiments |
 
 ---
 
@@ -154,6 +156,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ kubernetes-native-storage-patterns-playground
 - ✅ observability-playground
 - ✅ oci-artifact-distribution-playground
+- ✅ kubernetes-mcp-orders-playground
 
 ## Next
 
@@ -170,7 +173,6 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - Cilium
 - Linkerd
 - Open Policy Agent (OPA)
-- MCP
 - Local AI
 - Immutable Application Assets
 
