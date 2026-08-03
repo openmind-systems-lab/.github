@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **20 public repositories**
-- 🚀 **20 published Proofs of Concept**
+- 📦 **21 public repositories**
+- 🚀 **21 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -102,6 +102,7 @@ Research areas include:
 | Repository | Description |
 |------------|-------------|
 | [kubernetes-mcp-orders-playground](https://github.com/openmind-systems-lab/kubernetes-mcp-orders-playground) | Remote Model Context Protocol server in Go with Cline, PostgreSQL persistence and Kubernetes deployment for order-management tools |
+| [hybrid-rag-orders-playground](https://github.com/openmind-systems-lab/hybrid-rag-orders-playground) | Hybrid RAG in Go combining PostgreSQL order analytics with pgvector retrieval over PDF reports, Cline and DeepSeek |
 
 ---
 
@@ -157,6 +158,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ observability-playground
 - ✅ oci-artifact-distribution-playground
 - ✅ kubernetes-mcp-orders-playground
+- ✅ hybrid-rag-orders-playground
 
 ## Next
 
