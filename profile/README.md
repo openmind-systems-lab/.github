@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **22 public repositories**
-- 🚀 **22 published Proofs of Concept**
+- 📦 **23 public repositories**
+- 🚀 **23 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -83,6 +83,7 @@ Research areas include:
 |------------|-------------|
 | [nats-jetstream-pipeline](https://github.com/openmind-systems-lab/nats-jetstream-pipeline) | Distributed messaging with NATS JetStream |
 | [mqtt-k8s-playground](https://github.com/openmind-systems-lab/mqtt-k8s-playground) | MQTT messaging on Kubernetes using Eclipse Mosquitto |
+| [kafka-k8s-playground](https://github.com/openmind-systems-lab/kafka-k8s-playground) | Apache Kafka on Kubernetes with Strimzi, independent Go consumer groups and PostgreSQL persistence |
 
 ---
 
@@ -161,11 +162,11 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ kubernetes-mcp-orders-playground
 - ✅ hybrid-rag-orders-playground
 - ✅ ai-prometheus-analysis-playground
+- ✅ kafka-k8s-playground
 
 ## Next
 
 - 🔄 rabbitmq-k8s-playground
-- 🔄 kafka-k8s-playground
 - 🔄 pulsar-k8s-playground
 - 🔄 ollama-playground
 - 🔄 longhorn-playground
