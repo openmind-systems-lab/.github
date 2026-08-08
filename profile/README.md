@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **23 public repositories**
-- 🚀 **23 published Proofs of Concept**
+- 📦 **24 public repositories**
+- 🚀 **24 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -54,6 +54,7 @@ Research areas include:
 | [oci-artifact-distribution-playground](https://github.com/openmind-systems-lab/oci-artifact-distribution-playground) | OCI artifact packaging and GitOps reconciliation with FluxCD and GitHub Container Registry |
 | [keda-go](https://github.com/openmind-systems-lab/keda-go) | Event-Driven Autoscaling with KEDA |
 | [image-volume-playground](https://github.com/openmind-systems-lab/image-volume-playground) | Kubernetes Image Volume experimentation using OCI images |
+| [tekton-java-pipeline-playground](https://github.com/openmind-systems-lab/tekton-java-pipeline-playground) | Kubernetes-native Java CI pipeline with Tekton, Maven and Jib |
 
 ---
 
@@ -163,6 +164,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ hybrid-rag-orders-playground
 - ✅ ai-prometheus-analysis-playground
 - ✅ kafka-k8s-playground
+- ✅ tekton-java-pipeline-playground
 
 ## Next
 
