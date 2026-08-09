@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **24 public repositories**
-- 🚀 **24 published Proofs of Concept**
+- 📦 **25 public repositories**
+- 🚀 **25 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -55,6 +55,7 @@ Research areas include:
 | [keda-go](https://github.com/openmind-systems-lab/keda-go) | Event-Driven Autoscaling with KEDA |
 | [image-volume-playground](https://github.com/openmind-systems-lab/image-volume-playground) | Kubernetes Image Volume experimentation using OCI images |
 | [tekton-java-pipeline-playground](https://github.com/openmind-systems-lab/tekton-java-pipeline-playground) | Kubernetes-native Java CI pipeline with Tekton, Maven and Jib |
+| [terraform-java-kind-playground](https://github.com/openmind-systems-lab/terraform-java-kind-playground) | Terraform-orchestrated Kind cluster, containerized Java build, Kubernetes deployment and end-to-end API verification |
 
 ---
 
@@ -165,6 +166,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ ai-prometheus-analysis-playground
 - ✅ kafka-k8s-playground
 - ✅ tekton-java-pipeline-playground
+- ✅ terraform-java-kind-playground
 
 ## Next
 
