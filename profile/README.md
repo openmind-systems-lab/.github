@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **25 public repositories**
-- 🚀 **25 published Proofs of Concept**
+- 📦 **26 public repositories**
+- 🚀 **26 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -97,6 +97,7 @@ Research areas include:
 | [external-secrets-operator](https://github.com/openmind-systems-lab/external-secrets-operator) | Kubernetes External Secrets Operator |
 | [kyverno-playground](https://github.com/openmind-systems-lab/kyverno-playground) | Kubernetes policy management with Kyverno |
 | [spire-k8s-playground](https://github.com/openmind-systems-lab/spire-k8s-playground) | SPIRE on Kubernetes using the modern CRD-based model |
+| [keycloak-api-security-playground](https://github.com/openmind-systems-lab/keycloak-api-security-playground) | OAuth2/OIDC API security with Keycloak, Authorization Code + PKCE, TOTP MFA and Client Credentials |
 
 ---
 
@@ -167,6 +168,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ kafka-k8s-playground
 - ✅ tekton-java-pipeline-playground
 - ✅ terraform-java-kind-playground
+- ✅ keycloak-api-security-playground
 
 ## Next
 
