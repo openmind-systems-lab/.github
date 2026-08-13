@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **26 public repositories**
-- 🚀 **26 published Proofs of Concept**
+- 📦 **27 public repositories**
+- 🚀 **27 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -98,6 +98,7 @@ Research areas include:
 | [kyverno-playground](https://github.com/openmind-systems-lab/kyverno-playground) | Kubernetes policy management with Kyverno |
 | [spire-k8s-playground](https://github.com/openmind-systems-lab/spire-k8s-playground) | SPIRE on Kubernetes using the modern CRD-based model |
 | [keycloak-api-security-playground](https://github.com/openmind-systems-lab/keycloak-api-security-playground) | OAuth2/OIDC API security with Keycloak, Authorization Code + PKCE, TOTP MFA and Client Credentials |
+| [falco-runtime-security-playground](https://github.com/openmind-systems-lab/falco-runtime-security-playground) | Kubernetes runtime security with Falco, modern eBPF, custom detection rules, Falcosidekick and Falcosidekick UI |
 
 ---
 
@@ -169,6 +170,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ tekton-java-pipeline-playground
 - ✅ terraform-java-kind-playground
 - ✅ keycloak-api-security-playground
+- ✅ falco-runtime-security-playground
 
 ## Next
 
