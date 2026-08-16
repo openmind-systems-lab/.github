@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **27 public repositories**
-- 🚀 **27 published Proofs of Concept**
+- 📦 **28 public repositories**
+- 🚀 **28 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -76,6 +76,7 @@ Research areas include:
 | [kubernetes-statefulset-playground](https://github.com/openmind-systems-lab/kubernetes-statefulset-playground) | Kubernetes StatefulSets, stable identities, Headless Services and persistent storage |
 | [kubernetes-nfs-failover-playground](https://github.com/openmind-systems-lab/kubernetes-nfs-failover-playground) | Kubernetes application failover with an NFS CSI-backed ReadWriteMany volume and persistent state |
 | [kubernetes-native-storage-patterns-playground](https://github.com/openmind-systems-lab/kubernetes-native-storage-patterns-playground) | Kubernetes ephemeral, projected, dynamically provisioned and per-replica storage patterns |
+| [velero-playground-hourly](https://github.com/openmind-systems-lab/velero-playground-hourly) | Hourly and on-demand Velero backups, PostgreSQL logical dumps, File System Backup, MinIO object storage and disaster recovery on kind |
 
 ---
 
@@ -171,6 +172,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ terraform-java-kind-playground
 - ✅ keycloak-api-security-playground
 - ✅ falco-runtime-security-playground
+- ✅ velero-playground-hourly
 
 ## Next
 
@@ -179,7 +181,6 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - 🔄 ollama-playground
 - 🔄 longhorn-playground
 - 🔄 rook-ceph-playground
-- 🔄 velero-playground
 
 ## Future Research
 
