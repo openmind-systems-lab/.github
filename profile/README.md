@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **28 public repositories**
-- 🚀 **28 published Proofs of Concept**
+- 📦 **29 public repositories**
+- 🚀 **29 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -77,6 +77,7 @@ Research areas include:
 | [kubernetes-nfs-failover-playground](https://github.com/openmind-systems-lab/kubernetes-nfs-failover-playground) | Kubernetes application failover with an NFS CSI-backed ReadWriteMany volume and persistent state |
 | [kubernetes-native-storage-patterns-playground](https://github.com/openmind-systems-lab/kubernetes-native-storage-patterns-playground) | Kubernetes ephemeral, projected, dynamically provisioned and per-replica storage patterns |
 | [velero-playground-hourly](https://github.com/openmind-systems-lab/velero-playground-hourly) | Hourly and on-demand Velero backups, PostgreSQL logical dumps, File System Backup, MinIO object storage and disaster recovery on kind |
+| [longhorn-replica-failure-playground](https://github.com/openmind-systems-lab/longhorn-replica-failure-playground) | Longhorn synchronous block replication, Kubernetes RWO volume failover, progressive node failures and replica rebuilding on a local multi-node K3s cluster |
 
 ---
 
@@ -173,13 +174,13 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ keycloak-api-security-playground
 - ✅ falco-runtime-security-playground
 - ✅ velero-playground-hourly
+- ✅ longhorn-replica-failure-playground
 
 ## Next
 
 - 🔄 rabbitmq-k8s-playground
 - 🔄 pulsar-k8s-playground
 - 🔄 ollama-playground
-- 🔄 longhorn-playground
 - 🔄 rook-ceph-playground
 
 ## Future Research
