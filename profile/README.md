@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **30 public repositories**
-- 🚀 **30 published Proofs of Concept**
+- 📦 **31 public repositories**
+- 🚀 **31 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -89,6 +89,7 @@ Research areas include:
 | [mqtt-k8s-playground](https://github.com/openmind-systems-lab/mqtt-k8s-playground) | MQTT messaging on Kubernetes using Eclipse Mosquitto |
 | [kafka-k8s-playground](https://github.com/openmind-systems-lab/kafka-k8s-playground) | Apache Kafka on Kubernetes with Strimzi, independent Go consumer groups and PostgreSQL persistence |
 | [pulsar-k8s-playground](https://github.com/openmind-systems-lab/pulsar-k8s-playground) | Apache Pulsar on Kubernetes with Shared, Key_Shared and Failover subscriptions, polyglot consumers, targeted MessageId replay and PostgreSQL projections |
+| [rabbitmq-k8s-playground](https://github.com/openmind-systems-lab/rabbitmq-k8s-playground) | RabbitMQ on Kubernetes with the Cluster and Messaging Topology operators, topic and fanout exchanges, competing consumers, quorum queues, dead-lettering and PostgreSQL projections |
 
 ---
 
@@ -177,10 +178,10 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ velero-playground-hourly
 - ✅ longhorn-replica-failure-playground
 - ✅ pulsar-k8s-playground
+- ✅ rabbitmq-k8s-playground
 
 ## Next
 
-- 🔄 rabbitmq-k8s-playground
 - 🔄 ollama-playground
 - 🔄 rook-ceph-playground
 
