@@ -15,8 +15,8 @@ experimental development and benchmarking.
 
 ## Current Status
 
-- 📦 **31 public repositories**
-- 🚀 **31 published Proofs of Concept**
+- 📦 **32 public repositories**
+- 🚀 **32 published Proofs of Concept**
 - 📜 **100% Open Source**
 - ⚖️ **French Non-Profit Association (Loi 1901)**
 
@@ -33,6 +33,7 @@ Research areas include:
 - 📦 Kubernetes Native Storage & Data Platforms
 - 🌐 Service Mesh & API Gateways
 - 📨 Distributed Messaging Systems
+- ☁️ Cloud & Serverless
 - 🔒 Infrastructure Security
 - 📊 Performance Benchmarking
 - 🤖 Artificial Intelligence & Model Context Protocol (MCP)
@@ -90,6 +91,14 @@ Research areas include:
 | [kafka-k8s-playground](https://github.com/openmind-systems-lab/kafka-k8s-playground) | Apache Kafka on Kubernetes with Strimzi, independent Go consumer groups and PostgreSQL persistence |
 | [pulsar-k8s-playground](https://github.com/openmind-systems-lab/pulsar-k8s-playground) | Apache Pulsar on Kubernetes with Shared, Key_Shared and Failover subscriptions, polyglot consumers, targeted MessageId replay and PostgreSQL projections |
 | [rabbitmq-k8s-playground](https://github.com/openmind-systems-lab/rabbitmq-k8s-playground) | RabbitMQ on Kubernetes with the Cluster and Messaging Topology operators, topic and fanout exchanges, competing consumers, quorum queues, dead-lettering and PostgreSQL projections |
+
+---
+
+## ☁️ Cloud & Serverless
+
+| Repository | Description |
+|------------|-------------|
+| [aws-serverless-event-driven-playground](https://github.com/openmind-systems-lab/aws-serverless-event-driven-playground) | Event-driven file-processing pipeline with S3, EventBridge, SQS and Lambda using Floci as the local AWS emulator |
 
 ---
 
@@ -179,6 +188,7 @@ Every project published by OpenMind Systems Lab follows the same principles:
 - ✅ longhorn-replica-failure-playground
 - ✅ pulsar-k8s-playground
 - ✅ rabbitmq-k8s-playground
+- ✅ aws-serverless-event-driven-playground
 
 ## Next
 
