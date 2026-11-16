@@ -65,6 +65,7 @@ Research areas include:
 | Repository | Description |
 |------------|-------------|
 | [observability-playground](https://github.com/openmind-systems-lab/observability-playground) | Kubernetes-native metrics, logs and distributed tracing with Grafana Alloy, OpenTelemetry, Prometheus, Loki, Tempo and Grafana |
+| [kubernetes-realtime-logging-playground](https://github.com/openmind-systems-lab/kubernetes-realtime-logging-playground) | Real-time log aggregation across multiple Kubernetes replicas using Kubetail |
 
 ---
 
